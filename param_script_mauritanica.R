@@ -93,7 +93,7 @@ for (lineage in lineage_list) {
     
     
     # Run simulations
-    source(paste0(prefix_in_path,'Simulation_generations.R'))
+    source(paste0(prefix_in_path,'Simulation_generations_mauritanica.R'))
     
     
     # Data analyses
